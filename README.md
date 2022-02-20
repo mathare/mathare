@@ -4,7 +4,7 @@ I'm Mat, QA Manager at Linius Technologies. I've been in the industry for over 2
 been spent in QA/software testing roles across industry sectors including defence and oil & gas. I've worked at companies 
 ranging from start-ups to multi-nationals and much prefer the former. I've been hands-on my entire career and plan to stay
 that way as I am passionate about software quality. A few years ago, having spent much of my career in manual testing roles
-or working with outdated technology, I began an extensive program of reskilling and self-development using resources such
+or working with outdated technology, I began an extensive program of reskilling and self-development around automated testing using resources such
 as LinkedIn Learning and Test Automation University that continues to this day.
 
 🔭 I’m currently working on developing a portfolio of automated testing example projects in a variety of programming languages and using a range of tools and technologies.
@@ -13,7 +13,7 @@ I hope these projects can be used to kickstart future projects - whether that's 
 projects - and also for others to learn from and maybe use as a starting point for their own projects since these example 
 repos are all public. I am taking the various skills and tools I have learned, both on the job and from training courses, 
 and am developing projects that capture what I have learned. That way I have a record of what I have learned and having 
-put it in practice I am less likely to forget it. It also means I have something to refer back to ever after I have left 
+put it in practice I am less likely to forget it. It also means I have something to refer back to even after I have left 
 a particular role and no longer have access to the code I wrote for that organisation. 
 
 I am using publicly available resources (e.g. websites, APIs etc) in my projects so am not reliant on proprietary materials.
